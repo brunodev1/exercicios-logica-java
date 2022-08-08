@@ -21,7 +21,7 @@ public class ExercicioQuatro {
 		}
 		else {
 			System.out.println("Esse número é impar");
-			System.out.println(num+" elevado a 4 é "+Math.pow(num, 4));
+			System.out.println(num+" elevado a 2 é "+Math.pow(num, 2));
 		}
 	}
 
